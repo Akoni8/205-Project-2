@@ -1,0 +1,4 @@
+{ "name" : "Outside the Networking lab",
+  "description" : "You're standing in the open space just outside the networking lab, which is to the west.  The space opens to the south to overlook the library.  A table can be seen to the north with some smiling people sitting behind it.",
+  "neighbors" : {"s" : 9, "w" : 12, "n" : 13}
+}

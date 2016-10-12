@@ -1,0 +1,4 @@
+{ "name" : "Tech building",
+  "description" : "You're standing in the lobby of the tech building, which stretches to and west, the library is to the east.  Looking up, you can see the balconies of the two upper floors wrapping around the hall.  To the north, the entrances to a lecture hall can be seen propped open.",
+  "neighbors" : {"n" : 8, "e" : 1, "w" : 3}
+}

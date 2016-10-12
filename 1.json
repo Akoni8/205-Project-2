@@ -1,0 +1,4 @@
+{ "name" : "School",
+  "description" : "You're standin in the Library, the tech building is to the west.",
+  "neighbors" : {"w" : 2}
+}

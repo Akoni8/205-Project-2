@@ -1,0 +1,4 @@
+{ "name" : "Restroom",
+  "description" : "This restroom is spacious. It has 5 bathroom stalls and two showers.  The exit is to the south",
+  "neighbors" : {"s" : 3}
+}
