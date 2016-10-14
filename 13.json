@@ -1,4 +1,4 @@
-{ "name" : "Greeting Table",
-  "description" : "A long table stand before you covered in free paraphenalia for your enjoyment.  A person behind the table smiles and says, \"Welcome back to school!\"",
-  "neighbors" : {"s" : 11}
+{ "name" : "Room 13",
+  "description" : "previous room south, room up, room down",
+  "neighbors" : {"up" : 14, "down" : 15}
 }

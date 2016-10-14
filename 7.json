@@ -1,4 +1,4 @@
-{ "name" : " Hallway",
-  "description" : "The short hallway opens to the east into a dark room.  Doors to the west, labeled \"Game Room\" and \"Design Room\" are closed and locked.",
-  "neighbors" : {"s" : 6, "e" : 10 }
+{ "name" : "Room 7",
+  "description" : "room up",
+  "neighbors" : {"up" : 6}
 }

@@ -1,4 +1,4 @@
-{ "name" : "School",
-  "description" : "You're standin in the Library, the tech building is to the west.",
-  "neighbors" : {"w" : 2}
+{ "name" : "Room 1",
+  "description" : "there is a room to the north",
+  "neighbors" : {"n" : 2}
 }
