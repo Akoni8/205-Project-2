@@ -1,4 +1,4 @@
-{ "name" : "Lecture Hall",
-  "description" : "This large meeting room appears to be ready for a lecture.  There are several rows of tables with computers.  The lights in the room are off, and the only light is streaming in from the doors to the south.",
-  "neighbors" : {"s" : 2}
+{ "name" : "Room 8",
+  "description" : "You are now in the Safe class containment wing.  Intruders are close by.  head east to go back, or west to go deeper",
+  "neighbors" : {"w" : 9, "e" : 3}
 }

@@ -1,4 +1,4 @@
-{ "name" : " Grand room",
-  "description" : "The  Grand room is an enormous event space that is empty.  Dim lights in the ceiling barely illuminate the empty floor.  Apparently no events are planned for here today, which seems odd being that it's a Saturday.  The exit lies to the west.",
-  "neighbors" : {"w" : 7}
+{ "name" : "Room 10",
+  "description" : "you narowly avoid running into intruders as you head north.  You spot a hole in the floor that you can jump down to go to the lower floor.  or you can go west, north, east, or south",
+  "neighbors": {"w": 11, "s": 9, "e": 16, "n": 16, "down": 24}
 }

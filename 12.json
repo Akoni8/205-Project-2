@@ -1,4 +1,4 @@
-{ "name" : "Networking lab",
-  "description" : "This odd space appears to be a meeting room of sorts, namely because of the presence of a large projector screen to the north.  The walls are ringed with two levels of carpeted ledges where one would apparently sit during a presentation.  Judging by the large table in the center of the room, the organizers were not fans of this layout.  Instead, the room will probably act as an area for refreshments.  An exit leads to the east.",
-  "neighbors" : {"e" : 11}
+{ "name" : "Room 12",
+  "description" : "It is teffifyingly quiet in the Keter class containment wing.  Although none of the alarms are going off and it does not sound like the intruders are in this zone, you really do not feel safe.  Go north if you have the courage to keep moving, and go south if you do not.",
+  "neighbors" : {"n" : 13, "s" : 3}
 }
