@@ -59,7 +59,6 @@ class Game(cmd.Cmd):
                 exit()
 
             if (newroom == 16) or (newroom == 17) or (newroom == 18) or (newroom == 19) or (newroom == 20) or (newroom == 21) or (newroom == 22) or (newroom == 23) or (newroom == 24):
-
                 print("You suffer a horrible death")
                 print("Game Over")
 
