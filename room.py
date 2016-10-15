@@ -1,14 +1,14 @@
-import json
+import json #java script object notation module
 
-def get_room(id):
+def get_room(id): #gets the room by number
     ret = None
-    with open(str(id)+ ".json", "r") as f:
-        jsontext = f.read()
+    with open(str(id)+ ".json", "r") as f: #opens the json files
+        jsontext = f.read() #reads the text into a dictionary
         d = json.loads(jsontext)
         d['id'] = id
         ret = Room(**d)
         return ret
-class Room():
+class Room(): 
     """Rooms"""
     def __init__(self,id=0, name="A room", description="An empty room", neighbors={}):
         self.id = id

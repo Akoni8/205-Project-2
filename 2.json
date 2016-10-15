@@ -1,4 +1,4 @@
 { "name" : "room 2",
-  "description" : "south is entrance, north next room",
+  "description" : "To the south is the empty testing room you started in, proceed north ",
   "neighbors" : {"n" : 3, "s" :  1}
 }
